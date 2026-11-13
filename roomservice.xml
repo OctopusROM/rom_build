@@ -38,18 +38,21 @@
     name="Nyxal-GH/android_kernel_xiaomi_sm8250"
     path="kernel/xiaomi/sm8250"
     remote="github"
-    revision="lineage-23.2-resukisu" />
+    revision="lineage-24.0-resukisu" />
   <project
     name="crdroidandroid/android_device_xiaomi_blossom"
     path="device/xiaomi/blossom"
+    revision="17.0"
     remote="github" />
   <project
     name="crdroidandroid/proprietary_vendor_xiaomi_blossom"
     path="vendor/xiaomi/blossom"
+    revision="17.0"
     remote="github" />
   <project
     name="crdroidandroid/android_kernel_xiaomi_blossom"
     path="kernel/xiaomi/blossom"
+    revision="17.0"
     remote="github" />
 
   <project
