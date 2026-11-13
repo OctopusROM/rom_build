@@ -59,6 +59,11 @@
     name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common"
     path="vendor/xiaomi/sm8250-common"
     remote="github" />
+  <project
+    name="TheMuppets/proprietary_vendor_xiaomi_lmi"
+    path="vendor/xiaomi/lmi"
+    remote="github" />
+
   <remove-project path="hardware/xiaomi" />
   <project
     name="OctopusROM/android_hardware_xiaomi"
