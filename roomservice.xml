@@ -40,9 +40,18 @@
     remote="github"
     revision="lineage-23.2-resukisu" />
   <project
-    name="TheMuppets/proprietary_vendor_xiaomi_lmi"
-    path="vendor/xiaomi/lmi"
+    name="crdroidandroid/android_device_xiaomi_blossom"
+    path="device/xiaomi/blossom"
     remote="github" />
+  <project
+    name="crdroidandroid/proprietary_vendor_xiaomi_blossom"
+    path="vendor/xiaomi/blossom"
+    remote="github" />
+  <project
+    name="crdroidandroid/android_kernel_xiaomi_blossom"
+    path="kernel/xiaomi/blossom"
+    remote="github" />
+
   <project
     name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common"
     path="vendor/xiaomi/sm8250-common"
