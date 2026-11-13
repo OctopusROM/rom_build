@@ -54,6 +54,11 @@
     path="kernel/xiaomi/blossom"
     revision="17.0"
     remote="github" />
+  <project
+    name="crdroidandroid/android_hardware_mediatek"
+    path="hardware/mediatek"
+    revision="16.0"
+    remote="github" />
 
   <project
     name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common"
