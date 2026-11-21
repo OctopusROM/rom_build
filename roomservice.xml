@@ -65,7 +65,7 @@
     path="vendor/xiaomi/sm8250-common"
     remote="github" />
   <project
-    name="TheMuppets/proprietary_vendor_xiaomi_lmi"
+    name="OctopusROM/proprietary_vendor_xiaomi_lmi"
     path="vendor/xiaomi/lmi"
     remote="github" />
 
